@@ -1,6 +1,7 @@
 # SAC-FoG Experiment Results
 <p>
-  <img src="https://github.com/nothingbutbut/ICML-structure/blob/main/humanoid-run-performance.png" alt="humanhttps://github.com/nothingbutbut/ICML-structure/blob/main/humanoid-walk-performance.png" alt="humanoid-walk" style="width:48%; float:left; margin-left:2%;">
+  <img src="https://github.com/nothingbutbut/ICML-structure/blob/main/humanoid-run-performance.png" alt="humanoid-run" style="width:48%; float:left; margin-right:2%;">
+  <img src="https://github.com/nothingbutbut/ICML-structure/blob/main/humanoid-walk-performance.png" alt="humanoid-walk" style="width:48%; float:left; margin-left:2%;">
 </p>
 <p style="clear:both;">
   <img src="https://github.com/nothingbutbut/ICML-structure/blob/main/HalfCheetah-v4-performance.png" alt="HalfCheetah-v4" style="width:48%; float:left; margin-right:2%;">
